@@ -1,0 +1,31 @@
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\Lab.Lab.resources
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\My information\3 course\2 sem\Geometry\Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\bin\Debug\WindowsFormsApp1.exe.config
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\bin\Debug\WindowsFormsApp1.exe
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\bin\Debug\WindowsFormsApp1.pdb
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\Lab.Lab.resources
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\WindowsFormsApp1.exe
+C:\My information\3 course\2 sem\Geometry\Lab\Lab\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\Lab.Lab.resources
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bilen\OneDrive\Рабочий стол\ОГКГ\Lab-20220604T173122Z-001\Lab\obj\Debug\WindowsFormsApp1.pdb
